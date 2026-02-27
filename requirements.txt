@@ -1,0 +1,8 @@
+streamlit
+google-genai
+pypdf
+faiss-cpu
+python-dotenv
+tiktoken
+numpy
+pdf2image
